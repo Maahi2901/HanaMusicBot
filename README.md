@@ -1,4 +1,9 @@
- 
+#Checking 
+
+### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
+
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sumit9969/HanaMusicBot)
+
 ## Features 🔥️
 
 - **Play Music In Telegram Group Voice Chats!** (Supports Multiple Groups)
